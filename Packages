@@ -1,0 +1,34 @@
+Package: net.winneonsword.package
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Jesse Bryan <winneonsword@gmail.com>
+Filename: ./Package.deb
+Size: 736
+MD5sum: cf80ce5175306da0b8b37cf2632ddcd7
+SHA1: b22acbaa8b4a37a93e600334952f17fa99e4bc31
+SHA256: 205e70b5ed9cd70fb889660578d4c9dfb702dc84e8ac37596a801f447b9d321f
+Section: Themes
+Homepage: http://repo.winneonsword.net
+Description: This is a test package from /u/WinneonSword's tutorial repository!
+Author: Jesse Bryan <winneonsword@gmail.com>
+Depiction: http://repo.winneonsword.net/packages/package.html
+Name: Test Theme
+
+Package: com.crazybloo.testpack
+Name: TestPackage
+Depends: 
+Architecture: iphoneos-arm
+Filename: ./TestPackage.deb
+Description: An awesome application!
+Maintainer: System Administrator
+MD5sum: 4ddb6e43b1741f477f6febf52f763ed9
+SHA1: a6a119d0777db5849456ec45d9171265a595cf98
+SHA256: 371c3051234f8772265954f058115e96234f04c1dd8366f95229bfeda162fa38
+Author: System Administrator
+Homepage: http://repo.winneonsword.net
+Description: This is a test package from /u/WinneonSword's tutorial repository!
+Author: Jesse Bryan <winneonsword@gmail.com>
+Depiction: http://repo.winneonsword.net/packages/package.html
+Section: Utilities
+Version: 0.0.1-1
+Installed-Size: 64
